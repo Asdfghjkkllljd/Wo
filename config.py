@@ -3,8 +3,8 @@ CHANNEL_ID = -1002243436081 # ID канала со ставками
 ADMINS = [5846969551] # ID админов
 BET_URL = "t.me/send?start=IVpAqLJ8Pztg" # Ссылка на счет
 CRYPTOPAY_TOKEN = "257530:AAjBbpqNi7zCgG9RQwAlTDLOFRdKySJ2N6Q" # Тут CryptoPay токен
-WIN_IMAGE = "win.jpeg" # Название файла с картинкой выигрыша
-LOSE_IMAGE = "lose.jpeg" # Название файла с картинкой проигрыша
+WIN_IMAGE = "win.jpg" # Название файла с картинкой выигрыша
+LOSE_IMAGE = "lose.jpg" # Название файла с картинкой проигрыша
 LOGS_ID = -1002226990800 # ID канала с оплатами
 RULES_LINK = "https://t.me/+k42zVBd8Iz41ZDEy" # Ссылка на канал с правилами
 NEWS_LINK = "https://t.me/+YXO5t3AYIRgxZTdi" # Ссылка на новостной канал
